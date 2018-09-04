@@ -9,6 +9,7 @@ The Number abbreviation extension provides the following filters:
 
 Installation
 ------------
+Using composer : 
 
 ``composer require olivers/twig-number-abbreviation-extension``
 
