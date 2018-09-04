@@ -1,0 +1,24 @@
+{
+    "name": "0l1v3r5/twig-number-abbreviation-extension",
+    "keywords": ["twig", "number-abbreviation", "extension", "filter"],
+    "description": "Number abbreviation extension for twig. This extension helps you to display an easy-to-read format for your numbers.",
+    "homepage": "https://github.com/0l1v3r5/twig-number-abbreviation-extension",
+    "type": "library",
+    "require": {
+        "twig/twig": ">=2.4",
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "OLIVERS",
+            "email": "zinsouoliviers@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "0l1v3r5\\Twig\\Extension\\": "src/"
+        }
+    }
+}
