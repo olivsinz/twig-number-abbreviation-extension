@@ -18,7 +18,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "0l1v3r5\\Twig\\Extension\\": "src/"
+            "Olivers\\Twig\\Extension\\": "src/"
         }
     }
 }
