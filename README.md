@@ -14,8 +14,8 @@ Using composer :
 ``composer require olivers/twig-number-abbreviation-extension``
 
 
-Showing exact abbreviation of a number
---------------------------------------
+Showing exact abbreviation of number
+------------------------------------
 
 Use the ``exact_abbr`` filter if you are willing to display exactly the abbreviation
 of the providen number. This means, displaying the abbreviation with decimals.
@@ -25,8 +25,8 @@ of the providen number. This means, displaying the abbreviation with decimals.
 This example would output ``18.5M``, as ``18298547`` is the providen number.
 
 
-Showing general abbreviation of a number
-----------------------------------------
+Showing general abbreviation of number
+--------------------------------------
 
 Use the ``general_abbr`` filter if you are willing to display only the important part
 of the providen number (without exact group of thousand). Instead of generating an
