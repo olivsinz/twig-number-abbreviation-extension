@@ -1,5 +1,5 @@
 {
-    "name": "0l1v3r5/twig-number-abbreviation-extension",
+    "name": "olivers/twig-number-abbreviation-extension",
     "keywords": ["twig", "number-abbreviation", "extension", "filter"],
     "description": "Number abbreviation extension for twig. This extension helps you to display an easy-to-read format for your numbers.",
     "homepage": "https://github.com/0l1v3r5/twig-number-abbreviation-extension",
