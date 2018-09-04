@@ -10,6 +10,8 @@ The Number abbreviation extension provides the following filters:
 Installation
 ------------
 
+``composer require olivers/twig-number-abbreviation-extension``
+
 
 Showing exact abbreviation of a number
 --------------------------------------
