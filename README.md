@@ -1,7 +1,7 @@
 The Number abbreviation Extension
 =================================
 
-This extension is inspired by the work of [Our Code World] (https://ourcodeworld.com/articles/read/786/how-to-create-the-abbreviation-of-a-number-in-php). 
+This extension is inspired by the work of [Our Code World](https://ourcodeworld.com/articles/read/786/how-to-create-the-abbreviation-of-a-number-in-php). 
 The Number abbreviation extension provides the following filters:
 
 * ``exact_abbr``
